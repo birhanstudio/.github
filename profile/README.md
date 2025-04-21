@@ -40,7 +40,7 @@ Welcome to **DarkIce Studio** — a remote-first dev collective blending clean c
 
 We serve clients across the planet — from early-stage disruptors to enterprise leaders. No borders. No fluff. Just streamlined execution and results that speak.
 
-📫 **Contact**: contact.darkice@gmail.com 
+📫 **Contact**: contact.darkice@gmail.com <br />
 🌐 **Site**: Coming Soon (⚡)
 
 ---
