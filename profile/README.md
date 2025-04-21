@@ -40,8 +40,9 @@ Welcome to **DarkIce Studio** — a remote-first dev collective blending clean c
 
 We serve clients across the planet — from early-stage disruptors to enterprise leaders. No borders. No fluff. Just streamlined execution and results that speak.
 
-🌐 **Site**: <a href="https://darkicestudio.vercel.app/" rel="noopener noreferrer">darkicestudio.vercel.app</a><br />
-📫 **Contact**: <a href="mailto:contact.darkice@gmail.com">contact.darkice@gmail.com</a><br />
+📫 **Contact**: <a href="mailto:contact.darkice@gmail.com" target="_blank" rel="noopener noreferrer">contact.darkice@gmail.com</a><br />
+🌐 **Site**: <a href="https://darkicestudio.vercel.app/" target="_blank" rel="noopener noreferrer">Website (⚡)</a>
+
 
 
 ---
