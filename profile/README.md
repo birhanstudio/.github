@@ -63,5 +63,4 @@ Got talent? Got vision? Let’s build together.
 We’ll be opening up contribution invites, design collabs, and more — stay frosty.
 
 ---
-
-> **DarkIce Studio** — Where code meets shadow and pixels pulse with purpose.
+> **DarkIce Studio** – Code with clarity. Design with purpose.
