@@ -1,6 +1,6 @@
 # 🧊 DarkIce Studio
 
-> **Code Cold. Build Bold. Design Beyond.**
+> **Code Light. Build Right. Reach Heights.**
 
 Welcome to **DarkIce Studio** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
 
