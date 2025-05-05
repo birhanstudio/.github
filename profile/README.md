@@ -1,4 +1,4 @@
-# 🎇 Birham Studio
+# 🎇 Birhan Studio
 
 > **Code Light. Build Right. Reach Heights.**
 
