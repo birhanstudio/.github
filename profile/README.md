@@ -1,8 +1,8 @@
-# 🧊 DarkIce Studio
+# 🎇 Birham Studio
 
 > **Code Light. Build Right. Reach Heights.**
 
-Welcome to **DarkIce Studio** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
+Welcome to **Birhan Studio** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
 
 ---
 
@@ -40,8 +40,8 @@ Welcome to **DarkIce Studio** — a remote-first dev collective blending clean c
 
 We serve clients across the planet — from early-stage disruptors to enterprise leaders. No borders. No fluff. Just streamlined execution and results that speak.
 
-📫 **Contact**: <a href="mailto:contact.darkice@gmail.com" rel="noopener noreferrer">contact.darkice@gmail.com</a><br />
-🌐 **Site**: <a href="https://darkicestudio.vercel.app/" rel="noopener noreferrer">**🧊Link🧊**</a>
+📫 **Contact**: <a href="mailto:contact.birhan@gmail.com" rel="noopener noreferrer">contact.birhan@gmail.com</a><br />
+🌐 **Site**: <a href="https://birhanstudio.vercel.app/" rel="noopener noreferrer">**🧊Link🧊**</a>
 
 
 
@@ -65,4 +65,4 @@ Got talent? Got vision? Let’s build together.
 We’ll be opening up contribution invites, design collabs, and more — stay frosty.
 
 ---
-> **DarkIce Studio** – Code with clarity. Design with purpose.
+> **Birhan Studio** – Code with clarity. Design with purpose.
