@@ -41,7 +41,7 @@ Welcome to **Birhan Studio** — a remote-first dev collective blending clean co
 We serve clients across the planet — from early-stage disruptors to enterprise leaders. No borders. No fluff. Just streamlined execution and results that speak.
 
 📫 **Contact**: <a href="mailto:contact.birhan@gmail.com" rel="noopener noreferrer">contact.birhan@gmail.com</a><br />
-🌐 **Site**: <a href="https://birhanstudio.vercel.app/" rel="noopener noreferrer">**🧊Link🧊**</a>
+🌐 **Site**: <a href="https://birhan.vercel.app/" rel="noopener noreferrer">**🧊Link🧊**</a>
 
 
 
