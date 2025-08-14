@@ -1,8 +1,8 @@
-# 🎇 Birhan Studio
+# 🎇 Birhan Tech
 
 > **Code Light. Build Right. Reach Heights.**
 
-Welcome to **Birhan Studio** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
+Welcome to **Birhan Tech** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to **Birhan Studio** — a remote-first dev collective blending clean co
 
 We serve clients across the planet — from early-stage disruptors to enterprise leaders. No borders. No fluff. Just streamlined execution and results that speak.
 
-📫 **Contact**: <a href="mailto:contact.birhan@gmail.com" rel="noopener noreferrer">contact.birhan@gmail.com</a><br />
+📫 **Contact**: <a href="mailto:birhancontact@gmail.com" rel="noopener noreferrer">birhancontact@gmail.com</a><br />
 🌐 **Site**: <a href="https://birhan.vercel.app/" rel="noopener noreferrer">**🧊Link🧊**</a>
 
 
@@ -65,4 +65,4 @@ Got talent? Got vision? Let’s build together.
 We’ll be opening up contribution invites, design collabs, and more — stay frosty.
 
 ---
-> **Birhan Studio** – Code with clarity. Design with purpose.
+> **Birhan Tech** – Code with clarity. Design with purpose.
