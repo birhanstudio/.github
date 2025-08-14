@@ -1,8 +1,8 @@
-# 🎇 Birhan Tech
+# 🎇 Birhan Studio
 
 > **Code Light. Build Right. Reach Heights.**
 
-Welcome to **Birhan Tech** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
+Welcome to **Birhan Studio** — a remote-first dev collective blending clean code with futuristic design. We engineer custom software and digital experiences for bold brands, startups, and global teams who move fast and dream big.
 
 ---
 
@@ -65,4 +65,4 @@ Got talent? Got vision? Let’s build together.
 We’ll be opening up contribution invites, design collabs, and more — stay frosty.
 
 ---
-> **Birhan Tech** – Code with clarity. Design with purpose.
+> **Birhan Studio** – Code with clarity. Design with purpose.
